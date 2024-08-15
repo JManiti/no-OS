@@ -1,0 +1,11 @@
+{
+	"maxim": {
+		"basic_example": {
+			"flags" : "APARD32690_MAX42500_APP=y APARD32690_MAX42500_VIN_TEST = n"
+		},
+		"vin_test": {
+			"flags": "APARD32690_MAX42500_APP=n APARD32690_MAX42500_VIN_TEST = y"
+		}
+
+	}
+}
